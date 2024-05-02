@@ -1,6 +1,6 @@
 # Multi_Calculator_Application
 
-## Java GUI Multi-Calculator Application - README
+## Java GUI Multi-Calculator Application - CONTRIBUTION
 
 This project is a Java GUI application utilizing JFrames to provide users with a convenient platform for various calculations.
 
