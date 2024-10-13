@@ -18,10 +18,10 @@ This project is a Java GUI application utilizing JFrames to provide users with a
     * Basic understanding of Java programming and GUI development concepts
 
 2. **Running the Application:**
-    * Clone or download the project repository.
-    * Open the project in your preferred IDE (e.g., Eclipse, IntelliJ IDEA).
-    * Ensure all project dependencies are properly configured (if applicable).
-    * Run the AllAppFrame to launch the application.
+    👉 Clone or download the project repository.
+    👉 Open the project in your preferred IDE (e.g., Eclipse, IntelliJ IDEA).
+    👉 Ensure all project dependencies are properly configured (if applicable).
+    👉 Run the AllAppFrame to launch the application.
 
 **User Interface:**
 
